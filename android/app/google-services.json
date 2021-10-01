@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "909862725552",
+    "firebase_url": "https://recicleplus.firebaseio.com",
+    "project_id": "recicleplus",
+    "storage_bucket": "recicleplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909862725552:android:6ce5e35083c873d0bb1875",
+        "android_client_info": {
+          "package_name": "app.recicle.donor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909862725552-uifc0b7bjaat2m897qjij7aq5cbsjvj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.recicle.donor",
+            "certificate_hash": "8ee6a07965bf7290a3a67d5f015e2cf9af469c91"
+          }
+        },
+        {
+          "client_id": "909862725552-en20krfpmajgee7b50o2gd4jrui273nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.recicle.donor",
+            "certificate_hash": "48e6b48b000e86666c641b92e6c7323e48ed9fa9"
+          }
+        },
+        {
+          "client_id": "909862725552-rgqgk7vq1dhjgc6bfk9jeoejlt826c9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96aCpVXkzt2BQI6ISTIYDUaRMUx-zyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116049339224480342172",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909862725552:android:23b056f7ae99fa57bb1875",
+        "android_client_info": {
+          "package_name": "app.recicle.picker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909862725552-rgqgk7vq1dhjgc6bfk9jeoejlt826c9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96aCpVXkzt2BQI6ISTIYDUaRMUx-zyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116049339224480342172",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909862725552:android:a3289a21cf04ea7e",
+        "android_client_info": {
+          "package_name": "br.cefetmg.recicleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909862725552-rgqgk7vq1dhjgc6bfk9jeoejlt826c9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96aCpVXkzt2BQI6ISTIYDUaRMUx-zyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116049339224480342172",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909862725552:android:e6f741c6a310e753",
+        "android_client_info": {
+          "package_name": "br.cefetmg.recicleapp_donator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909862725552-iks3njk5i48avd95446i986e3pb9sak1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.cefetmg.recicleapp_donator",
+            "certificate_hash": "48e6b48b000e86666c641b92e6c7323e48ed9fa9"
+          }
+        },
+        {
+          "client_id": "909862725552-rgqgk7vq1dhjgc6bfk9jeoejlt826c9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96aCpVXkzt2BQI6ISTIYDUaRMUx-zyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116049339224480342172",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
